@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May  6 01:44:01 2020
+
+@author: Keshav Bansal
+"""
+
+{
+    "sender" : "",
+    "receiver" : "",
+    "amount" : 10
+}
